@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "357691359563",
+    "project_id": "rx100-login",
+    "storage_bucket": "rx100-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357691359563:android:acc89693e7a8fd253a68ce",
+        "android_client_info": {
+          "package_name": "com.example.rx100_train"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6_cvNAYFtGqZ993pFOpqDXIioJ5-CkCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357691359563:android:ed9727e1a5fdc64b3a68ce",
+        "android_client_info": {
+          "package_name": "com.train.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6_cvNAYFtGqZ993pFOpqDXIioJ5-CkCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
